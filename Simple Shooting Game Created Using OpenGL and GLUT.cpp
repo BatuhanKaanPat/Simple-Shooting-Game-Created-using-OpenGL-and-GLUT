@@ -1,3 +1,4 @@
+/*
 -----------------------------------
 ADDITIONAL FEATURES :
     -F1 to start or pause the game

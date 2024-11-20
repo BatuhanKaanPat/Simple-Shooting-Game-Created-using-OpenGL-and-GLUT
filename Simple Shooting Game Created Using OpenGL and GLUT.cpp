@@ -1,9 +1,3 @@
-/**********************************
- CTIS164 - Homework 2
------------------------------------
-NAME SURNAME : BATUHAN KAAN PAT
-STUDENT ID : 22202741
-SECTION : 04
 -----------------------------------
 ADDITIONAL FEATURES :
     -F1 to start or pause the game
@@ -463,7 +457,7 @@ int main(int argc, char** argv) {
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
     glutInitWindowSize(windowWidth, windowHeight);
-    glutCreateWindow("Shoot the rockets - Batuhan Kaan Pat");
+    glutCreateWindow("Shoot the rockets");
     glClearColor(1.0, 1.0, 1.0, 1.0);
 
     // Initialize targets before entering the main loop
